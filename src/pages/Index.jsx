@@ -22,7 +22,7 @@ const Index = () => {
                 <Button as={Link} to="/gallery" bg={"blue.400"} color={"white"} _hover={{ bg: "blue.500" }}>
                   View the Gallery
                 </Button>
-                <Button leftIcon={<FaGithub />} as={"a"} href={"https://github.com/yourusername/the-terrible-teddies"} target={"_blank"}>
+                <Button leftIcon={<FaGithub />} as={"a"} href={"https://github.com/baphometsblade/the_terrible_teddies"} target={"_blank"}>
                   View on GitHub
                 </Button>
               </Stack>
